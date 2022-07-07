@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\obj\Debug\netcoreapp3.1\Temperature-Calculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\obj\Debug\netcoreapp3.1\Temperature-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\obj\Debug\netcoreapp3.1\Temperature-Calculator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\obj\Debug\netcoreapp3.1\Temperature-Calculator.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\obj\Debug\netcoreapp3.1\Temperature-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\bin\Debug\netcoreapp3.1\Temperature-Calculator.exe
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\bin\Debug\netcoreapp3.1\Temperature-Calculator.deps.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\bin\Debug\netcoreapp3.1\Temperature-Calculator.runtimeconfig.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\bin\Debug\netcoreapp3.1\Temperature-Calculator.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\bin\Debug\netcoreapp3.1\Temperature-Calculator.dll
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\bin\Debug\netcoreapp3.1\Temperature-Calculator.pdb
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\obj\Debug\netcoreapp3.1\Temperature-Calculator.dll
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\obj\Debug\netcoreapp3.1\Temperature-Calculator.pdb
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Temperature-Calculator\Temperature-Calculator\obj\Debug\netcoreapp3.1\Temperature-Calculator.genruntimeconfig.cache

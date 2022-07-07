@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XnxCz9SncXq1MSMwBUh3D9bj++4AUIHgbHu+S+zb6wajitdWPu4TuyjLbhdBBBf+L/kqLVo5aQV4PmT2Rr5hKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\CodeHomeWork1\\Temperature-Calculator\\Temperature-Calculator\\Temperature-Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
